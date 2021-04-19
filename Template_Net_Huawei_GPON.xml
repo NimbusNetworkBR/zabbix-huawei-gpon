@@ -13,7 +13,7 @@
             <name>Template Net Huawei GPON</name>
             <groups>
                 <group>
-                    <name>Templates Nimbus</name>
+                    <name>Templates/GPON</name>
                 </group>
             </groups>
             <applications>
